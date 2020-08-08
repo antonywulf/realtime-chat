@@ -1,6 +1,6 @@
 # Realtime Чат Приложение - Socket.io, Node.js, и React.js
 
-### Деплой (сервер - heroku, клиент - netlify) [Live Site](https://react-socketio-realtime-chat.netlify.app)
+## Деплой (сервер - heroku, клиент - netlify) [Live Site](https://react-socketio-realtime-chat.netlify.app)
 
 ## Ключевые возможности
 Обмен сообщениями (а также возможность редактировать и удалять отправленные сообщения)
